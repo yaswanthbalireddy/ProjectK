@@ -1,0 +1,25 @@
+@media screen {
+  .main-con {
+    height: 100vh;
+  }
+  .con {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-family: sans-serif;
+    background-color: #d7d7d7;
+    width: 100%;
+    height: 120px;
+  }
+  .header-con {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background: transparent */
+  }
+  .heading {
+    font-size: 20px;
+    font-weight: 400;
+  }
+}
